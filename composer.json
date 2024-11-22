@@ -1,5 +1,5 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
+    "name": "karlorz/petstore-symfonybundle-php",
     "description": "",
     "keywords": [
         "openapi",
@@ -7,12 +7,12 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://openapi-generator.tech",
+    "homepage": "https://github.com/karlorz/petstore-symfonybundle-php",
     "license": "unlicense",
     "authors": [
         {
             "name": "OpenAPI",
-            "homepage": "https://openapi-generator.tech"
+            "homepage": "https://github.com/karlorz/petstore-symfonybundle-php"
         }
     ],
     "require": {
