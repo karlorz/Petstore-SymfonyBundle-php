@@ -34,7 +34,7 @@ To install the dependencies via [Composer](http://getcomposer.org/), add the fol
 Then run:
 
 ```
-composer require karlorz/petstore-symfonybundle-php:dev-master
+composer require karlorz/petstore-symfonybundle-php:dev-main
 ```
 
 to add the generated openapi bundle as a dependency.
